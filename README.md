@@ -1,1 +1,1 @@
-[macctest](https://wink007.github.io/macctest.github.io/)
+[macctest](https://wink007.github.io/macctest/)
